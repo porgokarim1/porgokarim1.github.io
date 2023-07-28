@@ -85,7 +85,11 @@ nav {
 	
 }
 
-
+@media screen and (max-width:800px) {
+/*   .hero-banner-container{
+    height: 560px;
+  } */
+}
 /* 
 h1{
 	font-family:"Courier New", Courier, monospace;
