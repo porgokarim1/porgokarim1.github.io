@@ -33,7 +33,7 @@ body {
 }
 
 #menu ul li a {
-  font-size: 18px;
+  font-size: 16px;
   text-decoration: none;
   color: #fff;
   padding: 5px 10px;
@@ -41,7 +41,7 @@ body {
 }
 
 #menu ul li a:hover {
-  background-color: #c82ce7;
+  background-color: #494ee3;
 }
 
 .intro {
