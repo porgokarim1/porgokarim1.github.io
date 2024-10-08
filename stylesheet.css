@@ -20,12 +20,20 @@ body {
   padding: 10px 0;
 }
 
-#menu ul {
+/* #menu ul {
   list-style: none;
   margin: 0;
   padding: 0;
   text-align: center;
+} */
+#menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Use flexbox */
+  justify-content: space-between; /* Distribute space between items */
 }
+
 
 #menu ul li {
   display: inline-block;
