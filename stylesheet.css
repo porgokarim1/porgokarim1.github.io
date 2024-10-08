@@ -31,16 +31,21 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: flex-start; /* Align items to the start */
+  justify-content: center; /* Center the items */
+}
+
+#menu ul li {
+  margin: 0 10px; /* Adjust spacing between items */
 }
 
 
 
-#menu ul li {
+
+/* #menu ul li {
   display: inline-block;
   margin: 0 20px;
 }
-
+ */
 #menu ul li a {
   font-size: 16px;
   text-decoration: none;
