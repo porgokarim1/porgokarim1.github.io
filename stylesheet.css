@@ -30,9 +30,10 @@ body {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex; /* Use flexbox */
-  justify-content: space-between; /* Distribute space between items */
+  display: flex;
+  justify-content: flex-start; /* Align items to the start */
 }
+
 
 
 #menu ul li {
