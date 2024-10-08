@@ -107,21 +107,6 @@ body {
   body {
     margin: 10px;
   }
-/* 
-  #menu {
-    background-color:rgba(0, 0, 0, 0.8);
-    padding: 0;
-    position: relative;
-  }
-
-  #menu ul {
-    display: flex;
-    justify-content: space-around;
-  }
-
-  #menu ul li {
-    margin: 0;
-  } */
 
   .intro {
     bottom: auto;
