@@ -4,7 +4,8 @@ body {
   background-image: url(images/founder_drone.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+/*   background-position: center; */
+  background-position: flexible;
   background-size: cover;
   background-color: rgb(66, 67, 119);
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
