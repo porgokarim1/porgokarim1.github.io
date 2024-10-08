@@ -16,7 +16,7 @@ body {
   margin: 0;
   background-image: url(images/founder_drone.png);
   background-repeat: no-repeat;
-  //background-attachment: fixed;
+  // background-attachment: fixed;
   background-position: center; /* Center the image */
   background-size: cover; /* Scale the image to cover the entire area */
   background-color: rgb(66, 67, 119); /* Fallback color */
